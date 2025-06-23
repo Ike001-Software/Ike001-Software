@@ -1,12 +1,19 @@
-- 👋 Hi, I’m @Ike001-Software
-- 👀 I’m interested in High level algorithm design and development
-- 🌱 I’m currently learning python programming language to further enhance my skills
-- 💞️ I’m looking to collaborate with likeminds and contribute to impaacting your team  
-- 📫 How to reach me: I can be reached here on github 
-- 😄 Pronouns: He
-- ⚡ Fun fact: I'm an easy to relate with kind of person. So attracted to software and technology.
+👋 Hey there, I’m Ikechukwu Orji (Ike001-Software)
 
-<!---
-Ike001-Software/Ike001-Software is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 I’m a Web Developer & Aspiring AI Engineer
+- 🌱 Currently mastering Frontend (HTML, CSS, JS)
+- 🔧 Learning to build full-stack projects (Node.js next)
+- 🧠 Interested in AI/ML – voice, image & text recognition
+- 🎯 Goal: Land remote jobs & contribute to open-source
+
+🧰 Tech Stack I’m Using
+HTML | CSS | JavaScript | Git | GitHub | Acode IDE  
+[+ soon: React | Node.js | Python]
+
+📂 Featured Projects
+Coming Soon.
+
+📬 Let’s Connect
+LinkedIn: https://www.linkedin.com/in/ikechukwu-mathew-orji-7a470624b
+
+> Building with purpose. Learning with passion. Growing with consistency. 🔥
